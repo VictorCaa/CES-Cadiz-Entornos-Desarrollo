@@ -6,6 +6,10 @@ public class Program {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hola mundo Git");
+		
+		float nota;
+		float notaMedia;
+		float notaFinal;
 	}
 
 }
